@@ -4,7 +4,7 @@ public class geekbrains {
 
   public static void main(String[] args) 
   {
-   System.out.println(checkSum(15, 4));
+   System.out.println(checkSum(15, 4));//Проверка объявленных методов
    System.out.println(checkSign(-3));
    System.out.println(checkSumBool(-8));
    printString(-6, "test");
